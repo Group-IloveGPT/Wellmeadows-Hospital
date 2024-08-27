@@ -29,8 +29,8 @@ namespace Wellmeadows_Hospital
 
             if (username == correctUsername && password == correctPassword)
             {
-                Staff staffForm = new Staff();
-                staffForm.Show();
+                Main mainForm = new Main();
+                mainForm.Show();
                 this.Hide(); 
             }
             else
