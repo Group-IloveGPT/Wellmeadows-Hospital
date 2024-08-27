@@ -59,7 +59,7 @@
             // Txt_Password
             // 
             this.Txt_Password.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Txt_Password.Location = new System.Drawing.Point(185, 238);
+            this.Txt_Password.Location = new System.Drawing.Point(185, 245);
             this.Txt_Password.Name = "Txt_Password";
             this.Txt_Password.PasswordChar = '•';
             this.Txt_Password.Size = new System.Drawing.Size(431, 38);
